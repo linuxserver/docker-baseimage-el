@@ -77,7 +77,8 @@ RUN \
   dnf autoremove -y && \
   dnf clean all && \
   rm -rf \
-    /tmp/*
+    /tmp/* \
+    /var/cache/dnf/*
 
 # runtime stage
 FROM scratch
