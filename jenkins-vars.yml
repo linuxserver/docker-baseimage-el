@@ -1,0 +1,26 @@
+---
+
+# jenkins variables
+project_name: docker-baseimage-el
+external_type: os
+release_type: stable
+release_tag: "9"
+ls_branch: master
+repo_vars:
+  - BUILD_VERSION_ARG = 'EL_VERSION'
+  - LS_USER = 'linuxserver'
+  - LS_REPO = 'docker-baseimage-el'
+  - CONTAINER_NAME = 'baseimage-el'
+  - DOCKERHUB_IMAGE = 'lsiobase/el'
+  - DEV_DOCKERHUB_IMAGE = 'lsiodev/el'
+  - PR_DOCKERHUB_IMAGE = 'lspipepr/el'
+  - DIST_IMAGE = 'fedora'
+  - MULTIARCH='true'
+  - CI='true'
+  - CI_WEB='false'
+  - CI_PORT='80'
+  - CI_SSL='true'
+  - CI_DELAY='30'
+  - CI_DOCKERENV='LSIO_FIRST_PARTY=true'
+  - CI_AUTH=''
+  - CI_WEBPATH=''
