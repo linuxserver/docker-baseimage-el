@@ -61,7 +61,7 @@ idna                                    2.10                           python
 ima-evm-utils                           1.5-3.el9                      rpm       
 iniparse                                0.4                            python    
 iproute                                 6.11.0-1.el9                   rpm       
-jq                                      1.6-17.el9                     rpm       
+jq                                      1.6-17.el9_6.2                 rpm       
 json-c                                  0.14-11.el9                    rpm       
 json-glib                               1.6.6-1.el9                    rpm       
 keyutils                                1.6.3-1.el9                    rpm       
@@ -123,7 +123,7 @@ libutempter                             1.2.1-6.el9                    rpm
 libuuid                                 2.37.4-21.el9                  rpm       
 libverto                                0.3.2-3.el9                    rpm       
 libxcrypt                               4.4.18-3.el9                   rpm       
-libxml2                                 2.9.13-9.el9_6                 rpm       
+libxml2                                 2.9.13-10.el9_6                rpm       
 libyaml                                 0.2.5-7.el9                    rpm       
 libzstd                                 1.5.5-1.el9                    rpm       
 lua-libs                                5.4.4-4.el9                    rpm       
