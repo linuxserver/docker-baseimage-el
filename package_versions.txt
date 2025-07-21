@@ -40,7 +40,7 @@ fonts-filesystem                        1:2.0.5-7.el9.1                rpm
 gawk                                    5.1.0-6.el9                    rpm       
 gdb-gdbserver                           14.2-4.1.el9_6                 rpm       
 gdbm-libs                               1:1.23-1.el9                   rpm       
-glib2                                   2.68.4-16.el9                  rpm       
+glib2                                   2.68.4-16.el9_6.2              rpm       
 glibc                                   2.34-168.el9_6.20              rpm       
 glibc-common                            2.34-168.el9_6.20              rpm       
 glibc-minimal-langpack                  2.34-168.el9_6.20              rpm       
