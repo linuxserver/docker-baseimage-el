@@ -123,7 +123,7 @@ libutempter                             1.2.1-6.el9                    rpm
 libuuid                                 2.37.4-21.el9                  rpm       
 libverto                                0.3.2-3.el9                    rpm       
 libxcrypt                               4.4.18-3.el9                   rpm       
-libxml2                                 2.9.13-10.el9_6                rpm       
+libxml2                                 2.9.13-11.el9_6                rpm       
 libyaml                                 0.2.5-7.el9                    rpm       
 libzstd                                 1.5.5-1.el9                    rpm       
 lua-libs                                5.4.4-4.el9                    rpm       
@@ -201,7 +201,7 @@ setup                                   2.13.7-10.el9                  rpm
 setuptools                              53.0.0                         python    
 shadow-utils                            2:4.9-12.el9                   rpm       
 six                                     1.15.0                         python    
-sqlite-libs                             3.34.1-7.el9_3                 rpm       
+sqlite-libs                             3.34.1-8.el9_6                 rpm       
 subscription-manager                    1.29.45.1                      python    
 subscription-manager                    1.29.45.1-1.el9_6              rpm       
 subscription-manager-rhsm-certificates  20220623-1.el9                 rpm       
