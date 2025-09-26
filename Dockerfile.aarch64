@@ -76,6 +76,9 @@ ADD --chmod=755 "https://raw.githubusercontent.com/linuxserver/docker-mods/mod-s
 RUN \
   dnf autoremove -y && \
   dnf clean all && \
+  sed -i \
+    's/yum$ociregion.$ocidomain/yum.oracle.com/g' \
+    /etc/yum.repos.d/*.repo && \
   rm -rf \
     /tmp/* \
     /var/cache/dnf/*
