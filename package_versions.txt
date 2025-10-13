@@ -217,7 +217,7 @@ urllib3                                 1.26.5                         python
 usermode                                1.114-6.el9                    rpm       
 util-linux                              2.37.4-21.el9                  rpm       
 util-linux-core                         2.37.4-21.el9                  rpm       
-vim-minimal                             2:8.2.2637-22.el9_6            rpm       
+vim-minimal                             2:8.2.2637-22.el9_6.1          rpm       
 virt-what                               1.27-1.el9                     rpm       
 which                                   2.21-30.el9_6                  rpm       
 xz                                      5.2.5-8.el9_0                  rpm       
