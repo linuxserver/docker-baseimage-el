@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM registry.access.redhat.com/ubi9/ubi AS base
+FROM registry.access.redhat.com/ubi10/ubi AS base
 
 # args
 ARG MODS_VERSION="v3"
@@ -22,9 +22,11 @@ RUN \
 # enable extra repos
 RUN \
   dnf localinstall -y --nogpgcheck \
-    https://download1.rpmfusion.org/free/el/rpmfusion-free-release-9.noarch.rpm && \
+     https://dl.fedoraproject.org/pub/epel/epel-release-latest-10.noarch.rpm && \
   dnf localinstall -y --nogpgcheck \
-    https://download1.rpmfusion.org/nonfree/el/rpmfusion-nonfree-release-9.noarch.rpm
+    https://download1.rpmfusion.org/free/el/rpmfusion-free-release-10.noarch.rpm && \
+  dnf localinstall -y --nogpgcheck \
+    https://download1.rpmfusion.org/nonfree/el/rpmfusion-nonfree-release-10.noarch.rpm
 
 # install base tools
 RUN \
