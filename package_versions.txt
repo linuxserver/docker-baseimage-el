@@ -210,7 +210,7 @@ systemd-libs                            252-55.el9_7.7               rpm
 systemd-pam                             252-55.el9_7.7               rpm       
 systemd-python                          234                          python    
 systemd-rpm-macros                      252-55.el9_7.7               rpm       
-tar                                     2:1.34-7.el9                 rpm       
+tar                                     2:1.34-9.el9_7               rpm       
 tpm2-tss                                3.2.3-1.el9                  rpm       
 tzdata                                  2025c-1.el9                  rpm       
 urllib3                                 1.26.5                       python    
