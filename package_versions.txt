@@ -128,7 +128,7 @@ mpdecimal                               2.5.1-12.el10                  rpm
 mpfr                                    4.2.1-5.el10                   rpm       
 ncurses-base                            6.4-14.20240127.el10           rpm       
 ncurses-libs                            6.4-14.20240127.el10           rpm       
-netcat                                  1.229-1.el10_0                 rpm       
+netcat                                  1.237-1.el10_1                 rpm       
 oniguruma                               6.9.9-7.el10                   rpm       
 openssl-fips-provider                   3.0.7-8.el10                   rpm       
 openssl-fips-provider-so                3.0.7-8.el10                   rpm       
