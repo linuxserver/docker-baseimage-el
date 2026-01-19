@@ -45,7 +45,7 @@ glibc                                   2.34-231.el9_7.2             rpm
 glibc-common                            2.34-231.el9_7.2             rpm       
 glibc-minimal-langpack                  2.34-231.el9_7.2             rpm       
 gmp                                     1:6.2.0-13.el9               rpm       
-gnupg2                                  2.3.3-4.el9                  rpm       
+gnupg2                                  2.3.3-5.el9_7                rpm       
 gnutls                                  3.8.3-9.el9                  rpm       
 gobject-introspection                   1.68.0-11.el9                rpm       
 gpg                                     1.15.1                       python    
@@ -131,15 +131,15 @@ lz4-libs                                1.9.3-5.el9                  rpm
 mpfr                                    4.1.0-7.el9                  rpm       
 ncurses-base                            6.2-12.20210508.el9          rpm       
 ncurses-libs                            6.2-12.20210508.el9          rpm       
-netcat                                  1.229-1.el9                  rpm       
+netcat                                  1.237-1.el9                  rpm       
 nettle                                  3.10.1-1.el9                 rpm       
 npth                                    1.6-8.el9                    rpm       
 oniguruma                               6.9.6-1.el9.6                rpm       
 openldap                                2.6.8-4.el9                  rpm       
-openssl                                 1:3.5.1-4.el9_7              rpm       
+openssl                                 1:3.5.1-5.el9_7              rpm       
 openssl-fips-provider                   3.0.7-8.el9                  rpm       
 openssl-fips-provider-so                3.0.7-8.el9                  rpm       
-openssl-libs                            1:3.5.1-4.el9_7              rpm       
+openssl-libs                            1:3.5.1-5.el9_7              rpm       
 oracle-epel-release-el9                 1.0-1.el9                    rpm       
 oraclelinux-release-el9                 1.0-26.el9                   rpm       
 p11-kit                                 0.25.3-3.el9_5               rpm       
