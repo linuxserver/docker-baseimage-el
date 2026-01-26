@@ -40,7 +40,7 @@ fonts-filesystem                        1:2.0.5-7.el9.1              rpm
 gawk                                    5.1.0-6.el9                  rpm       
 gdb-gdbserver                           16.3-2.el9                   rpm       
 gdbm-libs                               1:1.23-1.el9                 rpm       
-glib2                                   2.68.4-18.el9_7              rpm       
+glib2                                   2.68.4-18.el9_7.1            rpm       
 glibc                                   2.34-231.el9_7.2             rpm       
 glibc-common                            2.34-231.el9_7.2             rpm       
 glibc-minimal-langpack                  2.34-231.el9_7.2             rpm       
@@ -184,7 +184,7 @@ python3-setuptools-wheel                53.0.0-15.el9                rpm
 python3-six                             1.15.0-9.el9                 rpm       
 python3-subscription-manager-rhsm       1.29.47.1-1.el9_7            rpm       
 python3-systemd                         234-19.el9                   rpm       
-python3-urllib3                         1.26.5-6.el9                 rpm       
+python3-urllib3                         1.26.5-6.el9_7.1             rpm       
 readline                                8.1-4.el9                    rpm       
 redhat-release                          9.7-0.7.el9                  rpm       
 requests                                2.25.1                       python    
