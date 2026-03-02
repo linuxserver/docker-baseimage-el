@@ -48,7 +48,7 @@ glibc                                   2.39-58.el10_1.7                rpm
 glibc-common                            2.39-58.el10_1.7                rpm       
 glibc-minimal-langpack                  2.39-58.el10_1.7                rpm       
 gmp                                     1:6.2.1-12.el10                 rpm       
-gnutls                                  3.8.10-2.el10                   rpm       
+gnutls                                  3.8.10-3.el10_1                 rpm       
 gobject-introspection                   1.79.1-6.el10                   rpm       
 google-noto-fonts-common                20240401-5.el10                 rpm       
 google-noto-sans-mono-vf-fonts          20240401-5.el10                 rpm       
