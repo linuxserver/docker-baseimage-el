@@ -46,7 +46,7 @@ glibc-common                            2.34-231.el9_7.10            rpm
 glibc-minimal-langpack                  2.34-231.el9_7.10            rpm       
 gmp                                     1:6.2.0-13.el9               rpm       
 gnupg2                                  2.3.3-5.el9_7                rpm       
-gnutls                                  3.8.3-9.el9                  rpm       
+gnutls                                  3.8.3-10.el9_7               rpm       
 gobject-introspection                   1.68.0-11.el9                rpm       
 gpg                                     1.15.1                       python    
 gpg-pubkey                              5a6340b3-6229229e            rpm       
@@ -156,7 +156,7 @@ pygobject                               3.40.1                       python
 pyinotify                               0.9.6                        python    
 pysocks                                 1.7.1                        python    
 python-dateutil                         2.9.0.post0                  python    
-python3                                 3.9.25-3.el9_7               rpm       
+python3                                 3.9.25-3.el9_7.1             rpm       
 python3-chardet                         4.0.0-5.el9                  rpm       
 python3-cloud-what                      1.29.47.1-1.el9_7            rpm       
 python3-dateutil                        1:2.9.0.post0-1.el9_7        rpm       
@@ -174,7 +174,7 @@ python3-inotify                         0.9.6-25.el9                 rpm
 python3-libcomps                        0.1.18-1.el9                 rpm       
 python3-libdnf                          0.69.0-17.el9_7              rpm       
 python3-librepo                         1.14.5-3.el9                 rpm       
-python3-libs                            3.9.25-3.el9_7               rpm       
+python3-libs                            3.9.25-3.el9_7.1             rpm       
 python3-pip-wheel                       21.3.1-1.el9                 rpm       
 python3-pysocks                         1.7.1-12.el9                 rpm       
 python3-requests                        2.25.1-10.el9_6              rpm       
