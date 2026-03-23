@@ -77,7 +77,7 @@ langpacks-core-en                       4.1-3.el10                      rpm
 langpacks-en                            4.1-3.el10                      rpm       
 langpacks-fonts-en                      4.1-3.el10                      rpm       
 libacl                                  2.3.2-4.el10                    rpm       
-libarchive                              3.7.7-4.el10_0                  rpm       
+libarchive                              3.7.7-5.el10_1                  rpm       
 libattr                                 2.5.2-5.el10                    rpm       
 libblkid                                2.40.2-15.el10_1                rpm       
 libbpf                                  2:1.6.0-3.el10                  rpm       
@@ -145,7 +145,7 @@ psmisc                                  23.6-8.el10                     rpm
 pygobject                               3.46.0                          python    
 pyinotify                               0.9.6                           python    
 python-dateutil                         2.9.0.post0                     python    
-python3                                 3.12.12-3.el10_1                rpm       
+python3                                 3.12.12-3.el10_1.1              rpm       
 python3-charset-normalizer              3.4.2-1.el10                    rpm       
 python3-cloud-what                      1.30.10.1-1.el10_1              rpm       
 python3-dateutil                        1:2.9.0.post0-1.el10_0          rpm       
@@ -162,7 +162,7 @@ python3-inotify                         0.9.6-36.el10                   rpm
 python3-libcomps                        0.1.21-3.el10                   rpm       
 python3-libdnf                          0.73.1-12.el10                  rpm       
 python3-librepo                         1.18.0-6.el10_1                 rpm       
-python3-libs                            3.12.12-3.el10_1                rpm       
+python3-libs                            3.12.12-3.el10_1.1              rpm       
 python3-pip-wheel                       23.3.2-7.el10                   rpm       
 python3-requests                        2.32.4-1.el10_0                 rpm       
 python3-rpm                             4.19.1.1-20.el10                rpm       
@@ -186,7 +186,7 @@ rpmfusion-free-release                  10-1                            rpm
 rpmfusion-nonfree-release               10-1                            rpm       
 sed                                     4.9-3.el10                      rpm       
 setup                                   2.14.5-7.el10                   rpm       
-shadow-utils                            2:4.15.0-8.el10                 rpm       
+shadow-utils                            2:4.15.0-10.el10_1              rpm       
 six                                     1.16.0                          python    
 sqlite-libs                             3.46.1-5.el10_1                 rpm       
 subscription-manager                    1.30.10.1                       python    
@@ -198,12 +198,12 @@ systemd-pam                             257-13.el10                     rpm
 systemd-python                          235                             python    
 tar                                     2:1.35-9.el10_1                 rpm       
 tpm2-tss                                4.1.3-5.el10                    rpm       
-tzdata                                  2025c-1.el10                    rpm       
+tzdata                                  2026a-1.el10                    rpm       
 urllib3                                 1.26.19                         python    
 util-linux                              2.40.2-15.el10_1                rpm       
 util-linux-core                         2.40.2-15.el10_1                rpm       
-vim-data                                2:9.1.083-6.el10_1              rpm       
-vim-minimal                             2:9.1.083-6.el10_1              rpm       
+vim-data                                2:9.1.083-6.el10_1.1            rpm       
+vim-minimal                             2:9.1.083-6.el10_1.1            rpm       
 virt-what                               1.27-3.el10                     rpm       
 which                                   2.21-44.el10_0                  rpm       
 xz                                      1:5.6.2-4.el10_0                rpm       
