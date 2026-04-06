@@ -145,7 +145,7 @@ psmisc                                  23.6-8.el10                     rpm
 pygobject                               3.46.0                          python    
 pyinotify                               0.9.6                           python    
 python-dateutil                         2.9.0.post0                     python    
-python3                                 3.12.12-3.el10_1.1              rpm       
+python3                                 3.12.12-3.el10_1.2              rpm       
 python3-charset-normalizer              3.4.2-1.el10                    rpm       
 python3-cloud-what                      1.30.10.1-1.el10_1              rpm       
 python3-dateutil                        1:2.9.0.post0-1.el10_0          rpm       
@@ -162,7 +162,7 @@ python3-inotify                         0.9.6-36.el10                   rpm
 python3-libcomps                        0.1.21-3.el10                   rpm       
 python3-libdnf                          0.73.1-12.el10                  rpm       
 python3-librepo                         1.18.0-6.el10_1                 rpm       
-python3-libs                            3.12.12-3.el10_1.1              rpm       
+python3-libs                            3.12.12-3.el10_1.2              rpm       
 python3-pip-wheel                       23.3.2-7.el10                   rpm       
 python3-requests                        2.32.4-1.el10_0                 rpm       
 python3-rpm                             4.19.1.1-20.el10                rpm       
