@@ -101,7 +101,7 @@ libmd                                   1.1.0-5.el10_0                  rpm
 libmnl                                  1.0.5-7.el10                    rpm       
 libmodulemd                             2.15.0-12.el10                  rpm       
 libmount                                2.40.2-15.el10_1                rpm       
-libnghttp2                              1.64.0-2.el10                   rpm       
+libnghttp2                              1.64.0-2.el10_1.1               rpm       
 libpwquality                            1.4.5-12.el10                   rpm       
 librepo                                 1.18.0-6.el10_1                 rpm       
 libretls                                3.8.1-4.el10_0                  rpm       
